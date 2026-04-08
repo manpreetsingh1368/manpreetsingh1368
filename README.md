@@ -19,7 +19,6 @@ If my work has helped you or saved you time, buying me a coffee is a wonderful w
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
@@ -31,7 +30,6 @@ If my work has helped you or saved you time, buying me a coffee is a wonderful w
 Rust    ████████████████████░░░░░  55%
 C++     ████████████░░░░░░░░░░░░░  32%
 Python  ███░░░░░░░░░░░░░░░░░░░░░░  10%  (learning!)
-C       █░░░░░░░░░░░░░░░░░░░░░░░░   3%
 ```
 
 ---
@@ -45,12 +43,6 @@ C       █░░░░░░░░░░░░░░░░░░░░░░░
 
 ---
 
-## 📈 GitHub Stats
-
-![Manpreet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=manpreet-singh&show_icons=true&theme=github_dark&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manpreet-singh&layout=compact&theme=github_dark&hide_border=true)
-
----
 
 ## ☕ Support My Work
 
