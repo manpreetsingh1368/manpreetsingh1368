@@ -23,14 +23,13 @@ If my work has helped you or saved you time, buying me a coffee is a wonderful w
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
+//## 📊 Language Breakdown
 
-## 📊 Language Breakdown
-
-```
-Rust    ████████████████████░░░░░  55%
-C++     ████████████░░░░░░░░░░░░░  32%
-Python  ███░░░░░░░░░░░░░░░░░░░░░░  10%  (learning!)
-```
+//```
+//Rust    ████████████████████░░░░░  55%
+//C++     ███████░░░░░░░░░░░░░  32%
+//Python  ███░░░░░░░░░░░░░░░░░░░░░░  10%  (learning!)
+//```
 
 ---
 
